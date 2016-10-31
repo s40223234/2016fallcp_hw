@@ -1,7 +1,7 @@
-# 2016fallcpa
-2016fall 計算機程式課程一甲評量倉儲
+# 2016fllcp_hw
 
-https://mdecourse.github.io/2016fallcpa
+CP 乙班的練習倉儲
 
-https://mdecourse.github.io/2016fallcpa/blog
+http://mdecourse.github.io/2016fllcp_hw
 
+http://mdecourse.github.io/2016fllcp_hw/blog
