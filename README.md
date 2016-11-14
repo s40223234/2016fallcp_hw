@@ -2,6 +2,6 @@
 
 CP 乙班的練習倉儲
 
-http://mdecourse.github.io/2016fllcp_hw
+投影片 : https://s40223234.github.io/2016fallcp_hw/#/
 
-http://mdecourse.github.io/2016fllcp_hw/blog
+網誌 : https://s40223234.github.io/2016fallcp_hw/blog/
