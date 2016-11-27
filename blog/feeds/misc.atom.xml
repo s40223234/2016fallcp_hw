@@ -149,7 +149,7 @@ ctx.lineTo(150, 100)
 ctx.strokeStyle = "blue"
 ctx.stroke()
 ctx.closePath()
-&lt;/script&gt;</summary></entry><entry><title>W11 Brython 繪圖範例-自己練習</title><link href="./w11-brython-hui-tu-fan-li-zi-ji-lian-xi.html" rel="alternate"></link><published>2016-11-21T14:48:00+08:00</published><updated>2016-11-21T14:48:00+08:00</updated><author><name>40223234</name></author><id>tag:,2016-11-21:./w11-brython-hui-tu-fan-li-zi-ji-lian-xi.html</id><summary type="html">&lt;p&gt;Category : Course
+&lt;/script&gt;</summary></entry><entry><title>W11 Brython 繪圖範例-D Major練習</title><link href="./w11-brython-hui-tu-fan-li-d-majorlian-xi.html" rel="alternate"></link><published>2016-11-21T14:48:00+08:00</published><updated>2016-11-21T14:48:00+08:00</updated><author><name>40223234</name></author><id>tag:,2016-11-21:./w11-brython-hui-tu-fan-li-d-majorlian-xi.html</id><summary type="html">&lt;p&gt;Category : Course
 Tags: Brython
 Author: 40223234&lt;/p&gt;
 &lt;p&gt;Button 繪圖&lt;/p&gt;
