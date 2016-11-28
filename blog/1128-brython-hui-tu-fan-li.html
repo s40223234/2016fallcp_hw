@@ -367,6 +367,16 @@ def background(x, y, xinc, yinc, xnum, ynum, ctx):
         ctx.closePath()
     ctx.closePath()
 
+    # 1 與 A7
+ctx.beginPath()
+ctx.fillStyle = 'black'
+ctx.strokeStyle = "black"
+ctx.font = "25px Arial"
+ctx.fillText(" A Major", 50, 90)
+ctx.fill()
+ctx.stroke()
+ctx.closePath()
+
 
 background(50, 100, 20, 25, 5, 4, ctx)
 background(250, 100, 20, 25, 5, 4, ctx)
