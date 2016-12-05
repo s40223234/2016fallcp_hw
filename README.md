@@ -12,6 +12,4 @@ CP 乙班的練習倉儲
 
 2016fallcp 學員連結 : http://mde.tw/2016fallcp/blog/2016fall-cp-xue-yuan-lian-jie.html
 
-
-
-
+Vimeo : https://vimeo.com/user24079973/videos
