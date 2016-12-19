@@ -38,6 +38,46 @@ for i in range(int(mynum)):
     #container&lt;="W14練習-2"+html.BR()
     container&lt;=mystring+html.BR()
 
+&lt;pre class="brush: python"&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script type="text/javascript" 
+    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+
+&lt;canvas id="ex1"&gt;&lt;/div&gt;
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+container = doc['ex1']
+
+container&lt;="W14練習"
+&lt;/script&gt;
+
+
+
+&lt;canvas id="ex2"&gt;&lt;/div&gt;
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+container = doc['ex2']
+mystring=input("要印出什麼字串?")
+mynum=input("要印幾次?")
+
+for i in range(int(mynum)):
+    #container&lt;="W14練習-2"+html.BR()
+    container&lt;=mystring+html.BR()
+
+
 &lt;/script&gt;</summary><category term="每週練習"></category></entry><entry><title>W15練習-1219</title><link href="./w15lian-xi-1219.html" rel="alternate"></link><published>2016-12-12T14:35:00+08:00</published><updated>2016-12-12T14:35:00+08:00</updated><author><name>40223234</name></author><id>tag:,2016-12-12:./w15lian-xi-1219.html</id><summary type="html">&lt;p&gt;以下為第十四週開始的程式練習，要利用&lt;a href="http://mde.tw/2016fallcp/course/Python3Programs.txt"&gt;http://mde.tw/2016fallcp/course/Python3Programs.txt&lt;/a&gt; 要整理Brython的用法。&lt;/p&gt;
 
 
@@ -76,6 +116,8 @@ mynum=input("要印幾次?")
 for i in range(int(mynum)):
     #container&lt;="W14練習-2"+html.BR()
     container&lt;=mystring+html.BR()
+
+
 
 &lt;/script&gt;</summary><category term="每週練習"></category></entry><entry><title>1121老師畫的 Brython 繪圖範例</title><link href="./1121lao-shi-hua-de-brython-hui-tu-fan-li.html" rel="alternate"></link><published>2016-11-27T18:31:00+08:00</published><updated>2016-11-27T18:31:00+08:00</updated><author><name>40223234</name></author><id>tag:,2016-11-27:./1121lao-shi-hua-de-brython-hui-tu-fan-li.html</id><summary type="html">&lt;p&gt;Category : Course
 Tags: Brython
