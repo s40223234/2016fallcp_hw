@@ -38,6 +38,8 @@ for i in range(int(mynum)):
     #container&lt;="W14練習-2"+html.BR()
     container&lt;=mystring+html.BR()
 
+    &lt;/script&gt;
+
 &lt;pre class="brush: python"&gt;
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
