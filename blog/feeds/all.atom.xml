@@ -172,7 +172,9 @@ mynum = input("要印幾次?")
 for i in range(int(mynum)):
     #container&lt;="W14練習-2"+html.BR()
     container&lt;=mystring+html.BR()
-&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>W16-1226</title><link href="./w16-1226.html" rel="alternate"></link><published>2016-12-26T14:01:00+08:00</published><updated>2016-12-26T14:01:00+08:00</updated><author><name>40223234</name></author><id>tag:,2016-12-26:./w16-1226.html</id><summary type="html">&lt;p&gt;w16&lt;/p&gt;
+&lt;/script&gt;
+
+&lt;p&gt;影片連結 : &lt;a href="https://vimeo.com/198643260/"&gt;影片連結&lt;/a&gt;&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>W16-1226</title><link href="./w16-1226.html" rel="alternate"></link><published>2016-12-26T14:01:00+08:00</published><updated>2016-12-26T14:01:00+08:00</updated><author><name>40223234</name></author><id>tag:,2016-12-26:./w16-1226.html</id><summary type="html">&lt;p&gt;w16&lt;/p&gt;
 
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
